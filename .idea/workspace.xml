@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.patternDesign.prototype.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patternDesign.builder.Main" />
       <module name="pattern_design" />
@@ -57,8 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="patternDesign.prototype.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternDesign.prototype.Main" />
+      <module name="pattern_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternDesign.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.patternDesign.prototype.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
